@@ -1,0 +1,6 @@
+{
+  "name": "CherishHome",
+  "description": "Premium all-in-one home living app featuring verified home services, curated marketplace, and society living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
